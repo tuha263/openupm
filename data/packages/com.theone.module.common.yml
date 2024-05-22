@@ -1,0 +1,16 @@
+name: com.theone.module.common
+displayName: The One Module Common
+description: This package common features for otgher modules.
+repoUrl: https://github.com/The1Studio/FeatureModule
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: MIT
+image: ''
+topics:
+  - services
+hunter: The1Studio
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: develop:README.md
+createdAt: 1716358392160
